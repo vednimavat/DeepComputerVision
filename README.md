@@ -1,4 +1,4 @@
-# DeepComputerVision
+# Deep Computer Vision
 Diabetes remains one of the increasing concerns for all of humanity, and along with it comes 
 other problems like Diabetic Retinopathy. A patient with diabetes has about a 30% likelihood 
 of developing Diabetic Retinopathy (DR), according to several surveys. There are many 
